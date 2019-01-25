@@ -4,11 +4,11 @@ contact:
     avatar: bio.jpg
 
     # Sidebar links
-    email: zhihongyang2012@gmail.com # full email address
-    phone: 919-523-1848 # phone number
+    email: #zhihongyang2012@gmail.com # full email address
+    phone: # phone number
     website: # your url (e.g. student.github.io), do not add http://
     linkedin: # your linkedin username
-    github: YangZhiHong2018# your github username
+    github: #YangZhiHong2018 #your github username
     gitlab: # your gitlab username
     bitbucket: # your bitbucket username
     twitter: # your twitter handle wraped in quote (e.g. '@toddstoffer')
@@ -17,12 +17,12 @@ contact:
     osf: # your Open Science Framework username
 
 education:
-    - degree: PhD in Mathematics
-      university: Chinese Academy of Sciences
+    - degree: #PhD in Mathematics
+      university: #Chinese Academy of Sciences
       time: 2013 - 2018
 
-    - degree: BSc in Applied Mathematics
-      university: Central South University
+    - degree: #BSc in Applied Mathematics
+      university: #Central South University
       time: 2009 - 2013
 
 skills:
